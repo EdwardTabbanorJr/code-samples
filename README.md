@@ -1,2 +1,3 @@
-# code-samples
-Code samples for prospective employers and clients
+# Code Samples
+In this respository are code samples for prospective employers and clients to review 
+-- fsfsa
